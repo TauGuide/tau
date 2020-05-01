@@ -33,6 +33,7 @@ Read this first, in this order:
 # DID
 * https://csrc.nist.gov/publications/detail/white-paper/2019/07/09/a-taxonomic-approach-to-understanding-emerging-blockchain-idms/draft
 # TML
+* https://docs.google.com/document/d/1PrFu4o7b_Ln7arjVbLj6MQZJvChyy7CGxBCE44haT04/edit?usp=sharing
 * https://steemit.com/crypto-news/@dana-edwards/the-first-instance-of-tau-metalanguage-tml-has-appeared-on-github
 * https://steemit.com/tauchain/@dana-edwards/tau-the-programming-language-and-context-free-grammar
 * https://steemit.com/tauchain/@dana-edwards/using-controlled-english-as-a-knowledge-representation-language
